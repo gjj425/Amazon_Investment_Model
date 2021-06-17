@@ -28,20 +28,16 @@ In order to compete the model, several assumptions were required to be made. The
 After [running through the model](https://github.com/gjj425/Amazon_Investment_Model/blob/main/amazon_trading.ipynb) the annual and total IRRs were as follows.
 
 2018: -66.4%
-
 2019: 3.47%
-
 2020: 68.4%
-
 2018, 2019 and 2020: 10.6%
 
 If an investor were to hold for the entire year, rather than use this model, the results would be as follows:
 
 2018: 28.3%
-
 2019: 26.7%
-
 2020: 76.4%
+2018, 2019 and 2020: 40.4%
 
 ## Issues and Further Analysis
 The model underperforms against a buy-and-hold strategy. There are a number of reasons why this might occur, which will need to be further tested and accounted for.
