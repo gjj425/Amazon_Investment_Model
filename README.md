@@ -9,10 +9,10 @@ This model examines Amazon stock outperformance as it relates to press release t
 ## Content Links
 1. [Running the Model: 2017-2020](https://github.com/gjj425/Amazon_Investment_Model/blob/main/amazon_trading.ipynb)
 2. [Supporting Code for Python Objects](https://github.com/gjj425/Amazon_Investment_Model/blob/main/AmazonPrPatterns.py)
-3. [Assumptions](## assumptions)
-4. [Results](## results)
-5. [Issues and Further Analysis](## issues-and-further-analysis)
-6. [Conclusions](## conclusions)
+3. [Assumptions](##assumptions)
+4. [Results](##results)
+5. [Issues and Further Analysis](##issues-and-further-analysis)
+6. [Conclusions](##conclusions)
 7. [Metis](https://www.thisismetis.com/bootcamps/online-machine-learning-bootcamp)
 
 ## Assumptions
