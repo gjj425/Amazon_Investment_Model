@@ -12,8 +12,8 @@ This model examines Amazon stock outperformance as it relates to press release t
 3. [Assumptions](#assumptions)
 4. [Results](#results)
 5. [Issues and Further Analysis](#issues-and-further-analysis)
-6. Conclusions
-7. Metis
+6. [Conclusions](#conclusions)
+7. [Metis](https://www.thisismetis.com/bootcamps/online-machine-learning-bootcamp)
 
 ## Assumptions
 In order to compete the model, several assumptions were required to be made. The biggest of these assumptions are listed below.
